@@ -5,7 +5,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=9fd2f9&height=180&text=Welcome%20to%20namheewoo's%20GitHub&animation=fadeIn&fontColor=408df2&fontSize=50" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📘 studying... </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
