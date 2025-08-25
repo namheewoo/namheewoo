@@ -1,6 +1,3 @@
-## Hi there 👋
-
-## 📖 studying 📖
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=9fd2f9&height=180&text=Welcome%20to%20namheewoo's%20GitHub&animation=fadeIn&fontColor=408df2&fontSize=50" />
     </div>
